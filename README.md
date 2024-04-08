@@ -1,8 +1,3 @@
-# React + Vite
+# My-3D-portfolio
+As someone who loves 3D animations especially with the solar system and its constellation, I loved to build my portfolio (for live website soon) on similar grounds. Using React Three-Fiber, React Three-drei libraries of reactjs and various other components to reflect my skills and capabilities.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
