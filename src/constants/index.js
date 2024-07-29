@@ -21,7 +21,7 @@ import {
   shopify,
   carrent,
   jobit,
-  tripguide,
+  tripguidee,
   threejs,
 } from "../assets";
 
@@ -172,27 +172,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Nandini proved me wrong.",
+      "Her love for building websites & coming up with creative solutions is what made us get her on board for TEAMOS' web dev dept. Keep up the good work.",
     name: "Aayush Vats",
     designation: "Founder",
     company: "Teamos",
-    image: "https://media.licdn.com/dms/image/D5603AQFliYv7EXMjag/profile-displayphoto-shrink_800_800/0/1661422348460?e=1716422400&v=beta&t=SxF1ABRR0ZadyKabycD_MNsKKO6cM9llj1ZJHR-wO4w",
+    image: "https://media.licdn.com/dms/image/D5603AQFliYv7EXMjag/profile-displayphoto-shrink_800_800/0/1661422348460?e=1727913600&v=beta&t=NP5Qke4FEJqdf-3vjRx-_Uk2DiwWwywCX4HGcuiHtuY",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Nandini does. She's a indeed quick learner.",
+      "A very great leader and enthusiastic junior. It was great to have her in our web dev and tech research team. Absolutely proved herself!",
     name: "Aashish Singh",
     designation: "CTO",
     company: "Teamos",
-    image: "https://media.licdn.com/dms/image/D4E03AQEV39r4EzbZAg/profile-displayphoto-shrink_800_800/0/1707831155962?e=1716422400&v=beta&t=M1SGNAmhcqJdWTDHO8VAqXaHA9eX-CbyNR4g79YmXj8",
+    image: "https://media.licdn.com/dms/image/D5603AQETBm7njUllvw/profile-displayphoto-shrink_800_800/0/1718625919265?e=1727913600&v=beta&t=LGBwj5DcM5zhHAuKU0ogCkrOko_SR3fzvD2alFSojQw",
   },
   {
     testimonial:
-      "After Nandini optimized our website, our traffic increased by 50%. We can't thank her enough! She has true potential to start her own brand.",
+      "Love how Nandini has her passion for tech especially when it comes to her problem solving skills! She has true potential to start her own brand.",
     name: "Prachi Arunima",
     designation: "Co-Director",
     company: "Startup Grind Bhubaneswar",
-    image: "https://media.licdn.com/dms/image/D5603AQFqDB7p5xtFoQ/profile-displayphoto-shrink_800_800/0/1695157733980?e=1716422400&v=beta&t=sJtEZ2vqXhUcRGZxgI1gUJ1w8KLwMYX58F6pu26jYcs",
+    image: "https://media.licdn.com/dms/image/D5603AQE9PBpjN882ow/profile-displayphoto-shrink_800_800/0/1713045980723?e=1727913600&v=beta&t=oZCITJ4pAE5nJjzCl-6Pd3-DiYiElH4iw6e9o_wnErY",
   },
 ];
 
@@ -211,20 +211,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Online Book Management API",
+    name: "A Novel Fitness Tracker Model",
     description:
-      "Using requirements.js as dummy database, This Book Management System uses API's like get, post, put and delete. The comments are added for smooth understanding of what each api code does. The post, put and delete methods have been tested and verified using Postman. This is an easy backend logic depicting how one can organize large datasets via data structures like arrays, lists etc. and usage of functions like delete, put, update etc.",
+      "Modern fitness trackers excel at monitoring metrics like distance & heart rate but struggle with accurately counting barbell exercise repetitions. This project develops a ML model to track barbell exercises such as Bench Press, Squats, Overhead Presses, Deadlifts, and Rows. By using advanced data processing & predictive modeling, it enhances exercise classification & repetition counting accuracy, advancing personalized fitness tracking and empowering users with precise exercise data.",
     tags: [
       {
-        name: "javascript",
+        name: "Machine Learning",
         color: "blue-text-gradient",
       },
       {
-        name: "postman",
+        name: "python",
         color: "pink-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "VS Code",
         color: "green-text-gradient",
       },
     ],
@@ -234,7 +234,7 @@ const projects = [
   {
     name: "Online Virtual Closet- Fasion Recommendation System",
     description:
-      "Input your wardrobe as your virtual closet and get amazing styling recommendation via this under-progress Fashion Recommendation System, that performs Machine Learning models to suggest the most likeable outfits as per the user's taste.",
+      "Input your picture wearing the clothes you wish to get similar suggestions for and get amazing styling recommendation via this under-progress Fashion Recommendation System, that performs Machine Learning models to suggest the most likeable outfits as per the user's taste. Tested Convolutional Neural Networkutilizing learnings from ResNet50.",
     tags: [
       {
         name: "python",
@@ -245,9 +245,10 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: tripguide,
+    image: tripguidee,
     source_code_link: "https://github.com/",
   },
+ 
 ];
 
 export { services, technologies, experiences, testimonials, projects };
